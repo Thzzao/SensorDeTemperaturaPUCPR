@@ -1,10 +1,11 @@
-#     Sistema para controle de temperatura criado na matéria de Fundamentos de 
-#     Internet das Coisas do curso de ADS da PUCPR. Juntamente com o colega 
-#     Dyonata, a gente desenvolveu todo o código que faz a leitura da temperatura
-#     utilizando um sensor de temperatura e umidade DHT, um relé, um módulo ESP32
-#     e uma API chamada ThingSpeak para visualização das informações geradas.
-#     Criado por Thiago Souza e Dyonata Mahcado no ano de 2022.
-
+''' Sistema para controle de temperatura criado na matéria de Fundamentos de 
+    Internet das Coisas do curso de ADS da PUCPR. Juntamente com o colega 
+    Dyonata, a gente desenvolveu todo o código que faz a leitura da temperatura
+    utilizando um sensor de temperatura e umidade DHT, um relé, um módulo ESP32
+    e uma API chamada ThingSpeak para visualização das informações geradas.
+    Criado por Thiago Souza e Dyonata Mahcado no ano de 2022.
+'''
+#coding: utf-8
 import machine
 import time
 from wifi_lib import conecta
