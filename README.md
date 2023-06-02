@@ -1,3 +1,3 @@
 # SensorDeTemperaturaPUCPR
 
-Vídeo de apresentação: https://www.youtube.com/watch?v=iZSlo1K-GSg
+Vídeo de apresentação do projeto: https://www.youtube.com/watch?v=iZSlo1K-GSg
